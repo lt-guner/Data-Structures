@@ -1,1 +1,1 @@
-# OSU-271-Summer-2021
+# OSU CS271 Summer 2021
